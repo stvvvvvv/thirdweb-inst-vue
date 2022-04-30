@@ -1,0 +1,19 @@
+{
+  "name": "thirdweb-inst-vue",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@thirdweb-dev/sdk": "^2.1.2",
+    "ethers": "^5.6.4",
+    "vue": "^3.2.25"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.1",
+    "vite": "^2.9.5"
+  }
+}
